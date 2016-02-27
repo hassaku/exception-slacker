@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hassaku/exception-slacker.png)](https://travis-ci.org/hassaku/exception-slacker)
+
 # Install
 
 ```
