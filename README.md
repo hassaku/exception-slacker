@@ -19,7 +19,7 @@ os.environ['EXCEPTION_SLACKER_NAME'] = "Exception Notifier"
 raise StandardError("ERROR")
 ```
 
-![screenshot](https://raw.github.com/wiki/hassaku/exception_slacker/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/hassaku/exception-slacker/master/screenshot.png)
 
 ## When ENV not set
 
