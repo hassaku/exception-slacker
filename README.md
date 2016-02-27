@@ -43,6 +43,14 @@ Traceback (most recent call last):
 StandardError: ERROR
 ```
 
+# Update PyPI
+
+```
+$ nosetests -vs
+$ python setup.py register  # if necessary
+$ python setup.py sdist upload
+```
+
 # Contributing
 
 - Fork the repository on Github
